@@ -1,0 +1,71 @@
+[
+  {
+    "fabric": "Viscose",
+    "information": "Viscose information goes here"
+  },
+
+  {
+    "fabric": "Ecovera",
+    "information": "Ecovera information goes here"
+  },
+
+  {
+    "fabric": "Lyocell",
+    "information": "Lyocell information goes here"
+  },
+
+  {
+    "fabric": "Rayon",
+    "information": "Rayon information goes here"
+  },
+
+  {
+    "fabric": "Polyester",
+    "information": "Polyester information goes here"
+  },
+
+  {
+    "fabric": "Recycled Polyester",
+    "information": "Recycled Polysester information goes here"
+  },
+
+  {
+    "fabric": "Polyester",
+    "information": "information goes here"
+  },
+
+  {
+    "fabric": "Polyamide",
+    "information": "information goes here"
+  },
+
+  {
+    "fabric": "Acetate",
+    "information": "Acetate information goes here"
+  },
+
+  {
+    "fabric": "Cupro",
+    "information": "Cupro information goes here"
+  },
+
+  {
+    "fabric": "Cotton",
+    "information": "Cotton information goes here"
+  },
+
+  {
+    "fabric": "Silk",
+    "information": "Silk information goes here"
+  },
+
+  {
+    "fabric": "Linen",
+    "information": "Linen information goes here"
+  },
+
+  {
+    "fabric": "Wool",
+    "information": "Wool information goes here"
+  }
+]
