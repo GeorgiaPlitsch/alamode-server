@@ -5,11 +5,18 @@ class Fabrics {
     return fabricsData;
   };
 
-  static getFabricInfo = (id) => {
+  static getFabricInfo = (name) => {
     const foundFabric = fabricsData.find((fabric) => {
-      return fabric.id === id;
+      return fabric.name === name;
     });
     return foundFabric;
+  };
+
+  static getFabricNames = () => {
+    const fabricNames = fabricsData.map(() => {
+      return fabric.name;
+    });
+    return fabricNames;
   };
 }
 module.exports = Fabrics;
