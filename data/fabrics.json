@@ -1,70 +1,78 @@
 [
   {
-    "fabric": "Viscose",
-    "information": "Viscose information goes here"
-  },
-
-  {
-    "fabric": "Ecovera",
-    "information": "Ecovera information goes here"
-  },
-
-  {
-    "fabric": "Lyocell",
-    "information": "Lyocell information goes here"
-  },
-
-  {
-    "fabric": "Rayon",
-    "information": "Rayon information goes here"
-  },
-
-  {
-    "fabric": "Polyester",
-    "information": "Polyester information goes here"
-  },
-
-  {
-    "fabric": "Recycled Polyester",
-    "information": "Recycled Polysester information goes here"
-  },
-
-  {
-    "fabric": "Polyester",
-    "information": "information goes here"
-  },
-
-  {
-    "fabric": "Polyamide",
-    "information": "information goes here"
-  },
-
-  {
+    "id": "a65fb6a3-5405-43bd-b055-0e0ea291c6e7",
     "fabric": "Acetate",
     "information": "Acetate information goes here"
   },
 
   {
-    "fabric": "Cupro",
-    "information": "Cupro information goes here"
-  },
-
-  {
+    "id": "49a4fbec-3416-4c90-af6b-0b4fe025452e",
     "fabric": "Cotton",
     "information": "Cotton information goes here"
   },
 
   {
-    "fabric": "Silk",
-    "information": "Silk information goes here"
+    "id": "d2f05f1a-4b7c-4bfd-87e1-2c3f408343df",
+    "fabric": "Cupro",
+    "information": "Cupro information goes here"
   },
 
   {
+    "id": "aa584d05-8551-4a97-aed2-30840c0f308f",
+    "fabric": "Ecovera",
+    "information": "Ecovera information goes here"
+  },
+
+  {
+    "id": "258c2988-be73-40c4-9703-8149e8a7bbd5",
     "fabric": "Linen",
     "information": "Linen information goes here"
   },
 
   {
+    "id": "c692fb8b-2f6f-4ed4-8e80-0f440e9cf5a0",
+    "fabric": "Lyocell",
+    "information": "Lyocell information goes here"
+  },
+
+  {
+    "id": "13b9d4ce-129d-4ba6-b11d-96cb0869cc30",
+    "fabric": "Polyamide",
+    "information": "information goes here"
+  },
+
+  {
+    "id": "9bb35ed8-71ea-444b-8904-2d6a25a2b718",
+    "fabric": "Polyester",
+    "information": "Polyester information goes here"
+  },
+
+  {
+    "id": "38faf764-ada5-4fc4-8405-fc7607c9f237",
+    "fabric": "Rayon",
+    "information": "Rayon information goes here"
+  },
+
+  {
+    "id": "ca91f406-06ca-4e54-8e70-952142354788",
+    "fabric": "Recycled Polyester",
+    "information": "Recycled Polysester information goes here"
+  },
+
+  {
+    "id": "eb8feef9-6879-4ae2-8501-89ece67b7c9d",
+    "fabric": "Silk",
+    "information": "Silk information goes here"
+  },
+
+  {
+    "id": "61b0073c-9637-45c4-bb1d-3c82a70610f1",
+    "fabric": "Viscose",
+    "information": "Viscose information goes here"
+  },
+
+  {
+    "id": "f7f315fb-f788-4f4d-b4f9-7d6e3983af1f",
     "fabric": "Wool",
     "information": "Wool information goes here"
   }
