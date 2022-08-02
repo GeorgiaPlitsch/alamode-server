@@ -11,7 +11,6 @@ const getFabrics = (req, res) => {
 
 const getFabricInfo = (req, res) => {
   const { fabricName } = req.params;
-  console.log(req.params);
   const foundFabric = Fabrics.getFabricInfo(fabricName);
   if (foundFabric) {
     res.status(200).json(foundFabric);
