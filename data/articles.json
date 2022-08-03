@@ -3,7 +3,7 @@
     "id": "",
     "title": "The social fashion rental app: By Rotation",
     "author": "Ellen McArthur Foundation",
-    "image": "",
+    "image": "http://localhost:8080/byrotation-image.jpeg",
     "text": "By Rotation is a peer-to-peer fashion rental platform which encourages users to rent what they need and lend what they don’t use frequently at a fraction of the retail price. The company doesn’t buy any inventory and, because it aims to create an inclusive community, it doesn’t charge subscription fees. Since launching in October 2019, the platform now boasts over 150,000 users and allows the people renting to set the price of each item per day, along with the rental period. The mobile app mimics social media, allowing users to ‘like’, comment and interact with one another. They have a core focus on building a community of ‘style-aware’ and ‘environmentally aware’ individuals."
   },
 
@@ -11,7 +11,7 @@
     "id": "",
     "title": "Second hand shopping 101",
     "author": "Glamour",
-    "image": "",
+    "image": "http://localhost:8080/secondhand-image.jpg",
     "text": [
       "A mind-boggling 13 million items of clothing end up in landfill every week. We know those items won’t all be salvageable... or even wearable... but the volume of rubbish on the planet - and the fact we are constantly making more of it - is causing accelerated climate change. The process of making garments from scratch is hugely polluting and planet-damaging. From the gallons of water needed to grow cotton, the pollution that comes from chemicals required to make synthetic fabrics and the toxic dyes that end up in waterways and eco-systems... If there’s something already in existence that you can wear, why buy new?",
       "Lockdown caused our favourite charity shops to pivot to online so you don’t have to leave your house to find amazing pre-loved and vintage finds (although the thrill of uncovering a gem in a charity shop remains unbeaten.) If you feel overwhelmed by the volume of pre-loved pieces out there, narrow down your search and if you're online, always use the filter options.",
@@ -25,7 +25,7 @@
     "id": "",
     "title": "Good On You: the new app for eco-friendly fashion lovers",
     "author": "Vogue France",
-    "image": "",
+    "image": "http://localhost:8080/goodonyou-image-cropped3.jpg",
     "text": "The way we consume fashion is fast becoming a conscious act with ecological implications. Good On You is focused on three areas – the environment, animals, and working conditions. Whether ultra-luxury or cheap, all fashion brands are listed and classified according to criteria concerning the environment, wildlife and working conditions. Hundreds of labels, from the luxury to the affordable, have been classified according to how well their score concerning these categories. Five categories - excellent, good, average, poor, and bad – will rank global brands from an ethical standpoint, and the app will provide details about the company, as well as providing charity-approved advice. The excellent initiative has already attracted thousands of users around the world, and the app can be found on the Apple App Store and Google Play Store."
   },
 
@@ -33,7 +33,7 @@
     "id": "",
     "title": "Whering: the styling app digitising people's wardrobres",
     "author": "Stylist",
-    "image": "",
+    "image": "http://localhost:8080/whering-image-cropped.jpg",
     "text": [
       "The premise is simple. Upload images of every piece of clothing you own to the app, choose the occasion you’re looking to get dressed for and let Whering’s AI function digitally style you. In short, Whering will help you to be smarter about being conscious, thanks to its catalogue of what you already have. When the urge comes to buy things you can’t remember whether you already have or not, you will be able to check your catalogue of clothes and make an informed decision to curb overconsumption.",
       "Plus-size slow fashion advocate Sophie Abdullahi has used Whering since spring 2020. 'I have a habit of forgetting about most of the items I already have,' Abdullahi explains to Stylist. 'So, I love that I can use the ‘Dress Me’ function when I have no idea what to wear and that the app encourages me to think about the different ways that I can style and re-wear the clothes that I already own. I feel even more fashionable now.'",

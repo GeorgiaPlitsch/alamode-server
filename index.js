@@ -9,6 +9,8 @@ const PORT = process.env.PORT || 8000;
 const app = express();
 app.use(express.json());
 app.use(cors());
+app.use(express.static("images"));
+
 app.use("/api/fabrics", fabricsRouter);
 app.use("/api/articles", articlesRouter);
 app.use("/api/results", resultsRouter);
