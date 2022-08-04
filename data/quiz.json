@@ -1,0 +1,118 @@
+[
+  {
+    "quesition": "How often do you purchase fashion pieces?",
+    "answers": [
+      { "answer": "Less than yearly", "score": 20 },
+      { "answer": "Yearly", "score": 20 },
+      { "answer": "A few times a year", "score": 15 },
+      { "answer": "Monthly", "score": 5 },
+      { "answer": "More than monthly", "score": 0 }
+    ]
+  },
+  {
+    "quesition": "Where do you usually shop for fashion pieces?",
+    "answers": [
+      {
+        "answer": "General High Street/Fast Fashion (eg. H&M, prettylittlething, SHEIN, Zara)",
+        "score": 5
+      },
+      { "answer": "Yearly", "score": 20 },
+      {
+        "answer": "Mid-high tier high street (eg. All saints, coast & Other Stories, ARKET, House of CB, Mango)",
+        "score": 10
+      },
+      { "answer": "Premium-luxury brands", "score": 15 },
+      {
+        "answer": "Second hand stores (eg charity shops, depop, ebay, vinted)",
+        "score": 20
+      },
+      { "answer": "Rental", "score": 20 }
+    ]
+  },
+  {
+    "quesition": "How long do you usually keep fashion items for?",
+    "answers": [
+      {
+        "answer": "I keep them until they are no longer functional/they no longer fit",
+        "score": 20
+      },
+      {
+        "answer": "I keep them until I no longer enjoy the style of the item",
+        "score": 10
+      },
+      { "answer": "I keep them until they are no longer on trend", "score": 0 },
+
+      {
+        "answer": "I keep them until I have worn them/been seen in the item once-a few times",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "If you notice an item in your wardrobe is damaged, what do you usually do?",
+    "answers": [
+      { "answer": "Repair the item/ Take it to get repaired", "score": 20 },
+      { "answer": "Dispose of the item and/or replace it", "score": 20 }
+    ]
+  },
+  {
+    "question": "How do you usually dispose of your fashion items?",
+    "answers": [
+      { "answer": "Throw them away", "score": 0 },
+      { "answer": "Sell them", "score": 20 },
+      { "answer": "Dontate them", "score": 20 }
+    ]
+  },
+  {
+    "question": "Do you feel like there are any barriers you preventing you from being more sustainable in your fashion consumption habits?",
+    "answers": [
+      { "answer": "Yes", "score": 0 },
+      { "answer": "No", "score": 0 }
+    ]
+  },
+  {
+    "question": "Do you feel like there are any barriers you preventing you from being more sustainable in your fashion consumption habits?",
+    "answers": [
+      { "answer": "Yes", "score": 0 },
+      { "answer": "No", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which of these potential barriers is most accurate to you?",
+    "answers": [
+      {
+        "answer": "Financial concerns ie sustainable fashion brands are too high of a price points",
+        "score": 0
+      },
+      {
+        "answer": "Lack of variety/Restricting my style ie I enjoy wearing many different outfits and to experiment with my style",
+        "score": 0
+      },
+      {
+        "answer": "Lack of information on where to shop ie I do not know which brands I should purchase from and which to avoid",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "In terms of your goals/priorities within your sustainable fashion journey, which of these issues is most relevant to you?",
+    "answers": [
+      {
+        "answer": "Financial concerns ie sustainable fashion brands are too high of a price points",
+        "score": 0
+      },
+      {
+        "answer": "In terms of your goals/priorities within your sustainable fashion journey, which of these issues is most relevant to you?",
+        "score": 0
+      },
+      {
+        "answer": "Information on where to shop ie I want to know which brands I should purchase from and which to avoid",
+        "score": 0
+      },
+      {
+        "answer": "I already have a lot of pieces in my wardrobe (sustainable or not) and want to get the most wear out of them to prevent further overconsumption",
+        "score": 0
+      }
+    ]
+  }
+]

@@ -30,6 +30,4 @@ const getFabrics = (req, res) => {
 
 module.exports = {
   getFabrics,
-  // getFabricInfo,
-  // getFabricNames,
 };
