@@ -1,6 +1,14 @@
 [
   {
     "id": "",
+    "title": "5 ways to find high quality pieces on the high street",
+    "author": "Andrea Cheong",
+    "image": "http://localhost:8080/andrea-cheong.jpg",
+    "text": "By Rotation is a peer-to-peer fashion rental platform which encourages users to rent what they need and lend what they don’t use frequently at a fraction of the retail price. The company doesn’t buy any inventory and, because it aims to create an inclusive community, it doesn’t charge subscription fees. Since launching in October 2019, the platform now boasts over 150,000 users and allows the people renting to set the price of each item per day, along with the rental period. The mobile app mimics social media, allowing users to ‘like’, comment and interact with one another. They have a core focus on building a community of ‘style-aware’ and ‘environmentally aware’ individuals."
+  },
+
+  {
+    "id": "",
     "title": "The social fashion rental app: By Rotation",
     "author": "Ellen McArthur Foundation",
     "image": "http://localhost:8080/byrotation-image.jpeg",
