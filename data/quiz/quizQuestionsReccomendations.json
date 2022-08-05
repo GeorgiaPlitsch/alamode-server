@@ -1,0 +1,40 @@
+[
+  {
+    "question": "Do you feel like there are any barriers you preventing you from being more sustainable in your fashion consumption habits?",
+    "answers": [
+      { "answer": "Yes", "score": 0 },
+      { "answer": "No", "score": 0 }
+    ]
+  },
+  {
+    "question": "Which of these potential barriers is most accurate to you?",
+    "answers": [
+      {
+        "answer": "Financial concerns ie sustainable fashion brands are too high of a price points"
+      },
+      {
+        "answer": "Lack of variety/Restricting my style ie I enjoy wearing many different outfits and to experiment with my style"
+      },
+      {
+        "answer": "Lack of information on where to shop ie I do not know which brands I should purchase from and which to avoid"
+      }
+    ]
+  },
+  {
+    "question": "In terms of your goals/priorities within your sustainable fashion journey, which of these issues is most relevant to you?",
+    "answers": [
+      {
+        "answer": "Financial concerns ie sustainable fashion brands are too high of a price points"
+      },
+      {
+        "answer": "In terms of your goals/priorities within your sustainable fashion journey, which of these issues is most relevant to you?"
+      },
+      {
+        "answer": "Information on where to shop ie I want to know which brands I should purchase from and which to avoid"
+      },
+      {
+        "answer": "I already have a lot of pieces in my wardrobe (sustainable or not) and want to get the most wear out of them to prevent further overconsumption"
+      }
+    ]
+  }
+]
