@@ -1,37 +1,37 @@
 [
   {
-    "id": "",
+    "id": "65b3490f-3d5e-4915-a002-e68c1643b069",
     "suggestion": "Rent fahsion pieces and share waredrobes on ByRotation",
     "description": "Fashion Rental is a great way to maintain variety in your wardrobem experiment with your style and experience different pieces whilst not increasing your consumption. By Rotation offers a social, peer to peer service for likeminded people to rent and lend their wardrobe - fostering a community of fashion loves sharing their wardrobes and getting maximum wear out of their wardrobe. Think the air bnb of sustainable fashion.",
-    "article": "",
+    "articleId": "506413d5-2513-42da-8a20-f059fcea9489",
     "site": "https://byrotation.com/",
-    "icon": ""
+    "icon": "http://localhost:8080/byrotation-logo.png"
   },
 
   {
-    "id": "",
+    "id": "e595b13c-2524-44f9-a05b-d713b2cc225b",
     "suggestion": "Shop second hand to find afforadable, unique, sustainable fashion items",
     "description": "Second hand shopping is arguably the most sustainable way to consumer fashion and almost the most affordable. By choosing used items over new, you reduce your carbon footprint by 60-70% by eliminating the harmful carbon emitted when producing a new garment and reducing clothes waste ending up in landfull. Now more than ever it is easy to shop second hand through high street charity shopping, carboot sales and online through Ebay and apps such as Vinted, Vestaire Collective and Depop",
-    "article": "",
+    "articleId": "a31b41de-8af6-455b-b86c-b32aff9cebb0",
     "site": "https://www.depop.com/",
-    "icon": ""
+    "icon": "http://localhost:8080/depop-logo.jpg"
   },
 
   {
-    "id": "",
+    "id": "e21d4514-5b10-4195-b4ca-b487e28352ed",
     "suggestion": "Use Good On You to check brands sustainibility and ethics ratings",
     "description": "One of the biggest difficulties in shopping ethically and sustainably is the lack of immediate knowledge in the pratices and sustainability levels of particular brands and the time it can take to seek out this information. The Good On You App is a convenient tool to check out the sustianability and ethics ratings of fashion brands and to also disover sustainable fashion brands",
-    "article": "",
+    "article": "55dea6a2-ec53-455c-854e-86cdb29a9121",
     "site": "https://goodonyou.eco/",
-    "icon": ""
+    "icon": "http://localhost:8080/goodonyou-logo.png"
   },
 
   {
-    "id": "",
+    "id": "cfe82c84-2b46-4ae9-a8b6-621b4b82c5aa",
     "suggestion": "Digitise your wardrobe on Whering",
     "description": "Whering is a digital wardrobe app where you can create youe own virtual closet by uploading your fashion pieces. The app is focused on helping users to get more out of the items they love by encouraging them to shop their own wardrobe, prolonging their usable life with care, repair and donation services.",
-    "article": "",
+    "articleId": "80ff62e3-f721-4242-a841-63188a3c6f81",
     "site": "https://whering.co.uk/",
-    "icon": ""
+    "icon": "http://localhost:8080/andrea-cheong.jpg/whering-logo.jpeg"
   }
 ]

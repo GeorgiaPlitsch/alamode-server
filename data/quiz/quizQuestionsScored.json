@@ -1,73 +1,80 @@
 [
   {
-    "quesition": "How often do you purchase fashion pieces?",
+    "id": "84be8075-c4df-4d4e-9b2e-8d8d31bcc957",
+    "questionText": "How often do you purchase fashion pieces?",
     "answers": [
-      { "answer": "Less than yearly", "score": 20 },
-      { "answer": "Yearly", "score": 20 },
-      { "answer": "A few times a year", "score": 15 },
-      { "answer": "Monthly", "score": 5 },
-      { "answer": "More than monthly", "score": 0 }
+      { "answerText": "Less than yearly", "answerScore": 20 },
+      { "answerText": "Yearly", "answerScore": 20 },
+      { "answerText": "A few times a year", "answerScore": 15 },
+      { "answerText": "Monthly", "answerScore": 5 },
+      { "answerText": "More than monthly", "answerScore": 0 }
     ]
   },
   {
-    "quesition": "Where do you usually shop for fashion pieces?",
+    "id": "9ee36d77-4aea-49bf-b446-fa2ab7799c6c",
+    "questionText": "Where do you usually shop for fashion pieces?",
     "answers": [
       {
-        "answer": "General High Street/Fast Fashion (eg. H&M, prettylittlething, SHEIN, Zara)",
-        "score": 5
+        "answerText": "General High Street/Fast Fashion (eg. H&M, prettylittlething, SHEIN, Zara)",
+        "answerScore": 5
       },
-      { "answer": "Yearly", "score": 20 },
+      { "answerText": "Yearly", "answerScore": 20 },
       {
-        "answer": "Mid-high tier high street (eg. All saints, coast & Other Stories, ARKET, House of CB, Mango)",
-        "score": 10
+        "answerText": "Mid-high tier high street (eg. All saints, coast & Other Stories, ARKET, House of CB, Mango)",
+        "answerScore": 10
       },
-      { "answer": "Premium-luxury brands", "score": 15 },
+      { "answerText": "Premium-luxury brands", "answerScore": 15 },
       {
-        "answer": "Second hand stores (eg charity shops, depop, ebay, vinted)",
-        "score": 20
+        "answerText": "Second hand stores (eg charity shops, depop, ebay, vinted)",
+        "answerScore": 20
       },
-      { "answer": "Rental", "score": 20 }
+      { "answerText": "Rental", "answerScore": 20 }
     ]
   },
   {
-    "quesition": "How long do you usually keep fashion items for?",
+    "id": "9aeec403-38c3-4cf1-a9b3-07892f831260",
+    "questionText": "How long do you usually keep fashion items for?",
     "answers": [
       {
-        "answer": "I keep them until they are no longer functional/they no longer fit",
-        "score": 20
+        "answerText": "I keep them until they are no longer functional/they no longer fit",
+        "answerScore": 20
       },
       {
-        "answer": "I keep them until I no longer enjoy the style of the item",
-        "score": 10
+        "answerText": "I keep them until I no longer enjoy the style of the item",
+        "answerScore": 10
       },
-      { "answer": "I keep them until they are no longer on trend", "score": 0 },
+      {
+        "answerText": "I keep them until they are no longer on trend",
+        "answerScore": 0
+      },
 
       {
-        "answer": "I keep them until I have worn them/been seen in the item once-a few times",
-        "score": 0
+        "answerText": "I keep them until I have worn them/been seen in the item once-a few times",
+        "answerScore": 0
       }
     ]
   },
   {
-    "question": "If you notice an item in your wardrobe is damaged, what do you usually do?",
+    "id": "c034a17f-6eae-4523-b29d-56be911092a5",
+    "questionText": "If you notice an item in your wardrobe is damaged, what do you usually do?",
     "answers": [
-      { "answer": "Repair the item/ Take it to get repaired", "score": 20 },
-      { "answer": "Dispose of the item and/or replace it", "score": 20 }
+      {
+        "answerText": "Repair the item/ Take it to get repaired",
+        "answerScore": 20
+      },
+      {
+        "answerText": "Dispose of the item and/or replace it",
+        "answerScore": 20
+      }
     ]
   },
   {
-    "question": "How do you usually dispose of your fashion items?",
+    "id": "41f68cee-2918-4fc8-879a-d30969a3ffbf",
+    "questionText": "How do you usually dispose of your fashion items?",
     "answers": [
-      { "answer": "Throw them away", "score": 0 },
-      { "answer": "Sell them", "score": 20 },
-      { "answer": "Dontate them", "score": 20 }
-    ]
-  },
-  {
-    "question": "Do you feel like there are any barriers you preventing you from being more sustainable in your fashion consumption habits?",
-    "answers": [
-      { "answer": "Yes", "score": 0 },
-      { "answer": "No", "score": 0 }
+      { "answerText": "Throw them away", "answerScore": 0 },
+      { "answerText": "Sell them", "answerScore": 20 },
+      { "answerText": "Dontate them", "answerScore": 20 }
     ]
   }
 ]

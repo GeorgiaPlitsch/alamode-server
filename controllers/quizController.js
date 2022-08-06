@@ -1,6 +1,6 @@
 const Quiz = require("../models/Quiz.js");
 
-const getQuestions = (req, res) => {
+const getScoredQuestions = (req, res) => {
   const foundQuestions = Quiz.getQuestions();
   if (foundQuestions) {
     res.status(200).json(foundQuestions);
@@ -9,6 +9,16 @@ const getQuestions = (req, res) => {
   }
 };
 
+const getRecQuestions = (req, res) => {
+  const foundQuestions = Quiz.getRecQuestions();
+  if (foundQuestions) {
+    res.status(200).json(foundQuestions);
+  } else {
+    res.status(400).json({ errorMessage: `Questions not found` });
+  }
+};
+
 module.exports = {
-  getQuestions,
+  getScoredQuestions,
+  getRecQuestions,
 };
