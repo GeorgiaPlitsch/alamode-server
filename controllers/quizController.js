@@ -1,7 +1,7 @@
 const Quiz = require("../models/Quiz.js");
 
 const getScoredQuestions = (req, res) => {
-  const foundQuestions = Quiz.getQuestions();
+  const foundQuestions = Quiz.getScoredQuestions();
   if (foundQuestions) {
     res.status(200).json(foundQuestions);
   } else {

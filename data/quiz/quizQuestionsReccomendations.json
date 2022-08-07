@@ -2,7 +2,13 @@
   {
     "id": "1d59a30a-cb7f-4552-b7e4-ef281a6de79b",
     "questionText": "Do you feel like there are any barriers you preventing you from being more sustainable in your fashion consumption habits?",
-    "answers": [{ "answerText": "Yes" }, { "answerText": "No" }]
+    "answers": [
+      {
+        "answerText": "Yes",
+        "resultId": "eab3741d-34ab-48cf-81cc-50805221a805"
+      },
+      { "answerText": "No", "resultId": "3facb082-1314-4a1b-8349-c7763863d50b" }
+    ]
   },
   {
     "id": "eab3741d-34ab-48cf-81cc-50805221a805",
