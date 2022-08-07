@@ -1,8 +1,8 @@
 [
   {
     "id": "65b3490f-3d5e-4915-a002-e68c1643b069",
-    "suggestion": "Rent fahsion pieces and share waredrobes on ByRotation",
-    "description": "Fashion Rental is a great way to maintain variety in your wardrobem experiment with your style and experience different pieces whilst not increasing your consumption. By Rotation offers a social, peer to peer service for likeminded people to rent and lend their wardrobe - fostering a community of fashion loves sharing their wardrobes and getting maximum wear out of their wardrobe. Think the air bnb of sustainable fashion.",
+    "suggestion": "Rent fashion pieces and share waredrobes with other sustainable fashion enthusiasts on ByRotation",
+    "description": "Fashion Rental is a great way to maintain variety in your wardrobe, experiment with your style and experience different pieces whilst not increasing your consumption. By Rotation offers a social, peer to peer service for likeminded people to rent and lend their wardrobe - fostering a community of fashion lovers sharing their wardrobes and getting maximum wear out of their pieces. Think the air bnb of sustainable fashion.",
     "articleId": "506413d5-2513-42da-8a20-f059fcea9489",
     "site": "https://byrotation.com/",
     "icon": "http://localhost:8080/byrotation-logo.png"
@@ -14,7 +14,7 @@
     "description": "Second hand shopping is arguably the most sustainable way to consumer fashion and almost the most affordable. By choosing used items over new, you reduce your carbon footprint by 60-70% by eliminating the harmful carbon emitted when producing a new garment and reducing clothes waste ending up in landfull. Now more than ever it is easy to shop second hand through high street charity shopping, carboot sales and online through Ebay and apps such as Vinted, Vestaire Collective and Depop",
     "articleId": "a31b41de-8af6-455b-b86c-b32aff9cebb0",
     "site": "https://www.depop.com/",
-    "icon": "http://localhost:8080/depop-logo.jpg"
+    "icon": "http://localhost:8080/depop-logo.png"
   },
 
   {

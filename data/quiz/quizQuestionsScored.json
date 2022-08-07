@@ -18,7 +18,6 @@
         "answerText": "General High Street/Fast Fashion (eg. H&M, prettylittlething, SHEIN, Zara)",
         "answerScore": 5
       },
-      { "answerText": "Yearly", "answerScore": 20 },
       {
         "answerText": "Mid-high tier high street (eg. All saints, coast & Other Stories, ARKET, House of CB, Mango)",
         "answerScore": 10
@@ -59,7 +58,7 @@
     "questionText": "If you notice an item in your wardrobe is damaged, what do you usually do?",
     "answers": [
       {
-        "answerText": "Repair the item/ Take it to get repaired",
+        "answerText": "Repair the item/take it to get repaired",
         "answerScore": 20
       },
       {
@@ -74,7 +73,7 @@
     "answers": [
       { "answerText": "Throw them away", "answerScore": 0 },
       { "answerText": "Sell them", "answerScore": 20 },
-      { "answerText": "Dontate them", "answerScore": 20 }
+      { "answerText": "Donate them", "answerScore": 20 }
     ]
   }
 ]
