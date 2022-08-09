@@ -21,7 +21,7 @@
     "id": "e21d4514-5b10-4195-b4ca-b487e28352ed",
     "suggestion": "Use Good On You to check brands sustainibility and ethics ratings",
     "description": "One of the biggest difficulties in shopping ethically and sustainably is the lack of immediate knowledge in the pratices and sustainability levels of particular brands and the time it can take to seek out this information. The Good On You App is a convenient tool to check out the sustianability and ethics ratings of fashion brands and to also disover sustainable fashion brands",
-    "article": "55dea6a2-ec53-455c-854e-86cdb29a9121",
+    "articleId": "55dea6a2-ec53-455c-854e-86cdb29a9121",
     "site": "https://goodonyou.eco/",
     "icon": "http://localhost:8080/goodonyou-logo.png"
   },
@@ -29,7 +29,7 @@
   {
     "id": "cfe82c84-2b46-4ae9-a8b6-621b4b82c5aa",
     "suggestion": "Digitise your wardrobe on Whering",
-    "description": "Whering is a digital wardrobe app where you can create youe own virtual closet by uploading your fashion pieces. The app is focused on helping users to get more out of the items they love by encouraging them to shop their own wardrobe, prolonging their usable life with care, repair and donation services.",
+    "description": "Whering is a digital wardrobe app where you can create your own virtual closet by uploading your fashion pieces. The app is focused on helping users to get more out of the items they love by encouraging them to shop their own wardrobe, prolonging their usable life with care, repair and donation services.",
     "articleId": "80ff62e3-f721-4242-a841-63188a3c6f81",
     "site": "https://whering.co.uk/",
     "icon": "http://localhost:8080/whering-logo.jpeg"
