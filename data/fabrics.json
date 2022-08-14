@@ -2,36 +2,36 @@
   {
     "id": "a65fb6a3-5405-43bd-b055-0e0ea291c6e7",
     "name": "Acetate",
-    "summary": "Summary",
-    "information": "Acetate information goes here Cat ipsum dolor sit amet, disappear for four days and return home with an expensive injury; bite the vet, cat snacks so scratch so owner bleeds. Cats making all the muffins. Ptracy jump on counter removed by human jump on counter again removed by human meow before jumping on counter this time to let the human know am coming back cat fur is the new black or lick plastic bags kitty loves pigs"
+    "summary": "An improvement on virgin plastics - be wary - look for bio acetate",
+    "information": "Acetate is a plant-based material,can biodegrade depending on where and how it is discarded. However it's production involves toxic chemicals that can be dangerous to you, the workers that manufacture acetate, the environment where the acetate product eventually lands, and any animals who come across it. Compared to virgin plastics it's the lesser of 2 evils but be wary when buying items made from acetate look out for are ‘bio-acetate’ or ‘bio-plastic’, meaning a higher percentage is made from plants, increasing the chance of biodegradability."
   },
 
   {
     "id": "49a4fbec-3416-4c90-af6b-0b4fe025452e",
     "name": "Cotton",
-    "summary": "Summary",
-    "information": "Cotton information goes here Cat ipsum dolor sit amet, disappear for four days and return home with an expensive injury; bite the vet, cat snacks so scratch so owner bleeds. Cats making all the muffins. Ptracy jump on counter removed by human jump on counter again removed by human meow before jumping on counter this time to let the human know am coming back cat fur is the new black or lick plastic bags kitty loves pigs"
+    "summary": "Mixed impact - sustainable fabric, not so sustainable process - look for organic if possible",
+    "information": "Cotton is a high quality, soft,  natural and therefor biodegradable fibre. However, its production is nevertheless haunted by claims of pollution, exploitation, and slavery (even today) and it's production requires large quantities of harmful insecticides. Look for organic cotton, a more sustainable solution which is grown without pesticides from seeds that have not been genetically modified. Look out for Fair Trade certification to ensure workers are treated well along the supply chain."
   },
 
   {
     "id": "d2f05f1a-4b7c-4bfd-87e1-2c3f408343df",
     "name": "Cupro",
-    "summary": "Summary",
-    "information": "Cupro information goes here Cat ipsum dolor sit amet, disappear for four days and return home with an expensive injury; bite the vet, cat snacks so scratch so owner bleeds. Cats making all the muffins. Ptracy jump on counter removed by human jump on counter again removed by human meow before jumping on counter this time to let the human know am coming back cat fur is the new black or lick plastic bags kitty loves pigs"
+    "summary": "Mixed impact - sustainable fabric, not so sustainable process - avoid and look for alternative vegan silk if possible",
+    "information": "Cupro is a silk alternative ‘regenerated cellulose’ fabric made from cotton waste, plant-based and is chemically processed to produce the resulting fabric. As a by-product of cotton production, it's technically a recycled textile however is not ethical or sustainable due to toxic chemicals used in production. Alternatives we suggest are Citrus Fibre and Vegan Spider Silk "
   },
 
   {
     "id": "aa584d05-8551-4a97-aed2-30840c0f308f",
-    "name": "Ecovera",
-    "summary": "Summary",
-    "information": "Ecovera information goes here Cat ipsum dolor sit amet, disappear for four days and return home with an expensive injury; bite the vet, cat snacks so scratch so owner bleeds. Cats making all the muffins. Ptracy jump on counter removed by human jump on counter again removed by human meow before jumping on counter this time to let the human know am coming back cat fur is the new black or lick plastic bags kitty loves pigs"
+    "name": "EcoVero",
+    "summary": "An improvement but still not the best - go for Lyocell instead",
+    "information": "High quality and long wearing. A more sustainable form of viscose made using sustainable wood from controlled sources, instead of bamboo or eucalyptus, which is commonly used in normal viscose production. However it's production still requirex toxic chemicals. Alternatives we suggest are: Lyocell"
   },
 
   {
     "id": "258c2988-be73-40c4-9703-8149e8a7bbd5",
     "name": "Linen",
-    "summary": "Summary",
-    "information": "Linen information goes here Cat ipsum dolor sit amet, disappear for four days and return home with an expensive injury; bite the vet, cat snacks so scratch so owner bleeds. Cats making all the muffins. Ptracy jump on counter removed by human jump on counter again removed by human meow before jumping on counter this time to let the human know am coming back cat fur is the new black or lick plastic bags kitty loves pigs"
+    "summary": "Sustainable - check for organic",
+    "information": "Linen is one of the most biodegradable and stylish fabrics in fashion history. It is strong, naturally moth resistant, and made from flax plant fibres, so when untreated (i.e. not dyed) it is fully biodegradable. Look for certified organic linen where possible to guarantee that no harmful dyes have been used."
   },
 
   {
@@ -42,17 +42,10 @@
   },
 
   {
-    "id": "13b9d4ce-129d-4ba6-b11d-96cb0869cc30",
-    "name": "Polyamide",
-    "summary": "Summary",
-    "information": "information goes here Cat ipsum dolor sit amet, disappear for four days and return home with an expensive injury; bite the vet, cat snacks so scratch so owner bleeds. Cats making all the muffins. Ptracy jump on counter removed by human jump on counter again removed by human meow before jumping on counter this time to let the human know am coming back cat fur is the new black or lick plastic bags kitty loves pigs"
-  },
-
-  {
     "id": "9bb35ed8-71ea-444b-8904-2d6a25a2b718",
     "name": "Polyester",
-    "summary": "Summary",
-    "information": "Polyester information goes here Cat ipsum dolor sit amet, disappear for four days and return home with an expensive injury; bite the vet, cat snacks so scratch so owner bleeds. Cats making all the muffins. Ptracy jump on counter removed by human jump on counter again removed by human meow before jumping on counter this time to let the human know am coming back cat fur is the new black or lick plastic bags kitty loves pigs"
+    "summary": "Damaging - go for organic cotton instead or shop second hand",
+    "information": "`a common plastic with a wide range of applications extending beyond the fashion industry. Most polyesters are not biodegradable and will not decompose for 20 years at best and 200 years at worst. Polyester is partially derived from petroleum, and the oil manufacturing industry is the world’s largest pollutant. Synthetic fibres make up a good share of microplastics found in waters and are widely implicated as the source of pollution. Alternatives we suggest: organic cotton, hemp, or Tencel"
   },
 
   {
