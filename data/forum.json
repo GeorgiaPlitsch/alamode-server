@@ -43,5 +43,58 @@
         "responseDate": "07/08/2022"
       }
     ]
+  },
+
+  {
+    "id": "73f4a089-f2bf-4bbd-9874-4cc9f613b958",
+    "postTitle": "Opinions on occassionwear being made from synthetics",
+    "authorName": "Emily Daniels",
+    "authorIcon": "",
+    "postBody": "As of recent I have really been trying to focus on the fabrics used in any potential clothing purchases and am trying to buy all natural fibres as much as possible. One issue I'm having is with occassionwear - unless I fork out ££££ for silk and/or keep things on the more basic design end of things, it seems there's no avoiding synthetics. What are your guys' thoughts on owning occassionwear pieces that are perhaps not made from the most sustainable fabrics?",
+    "postDate": "06/08/2022",
+    "postResponses": [
+      {
+        "responseName": "Sadie McKeown",
+        "responseBody": "I have definitely had the experience. I try to remember that fabric composition is only one element to measure our sustainability by - perhaps more important is whether the product is of high quality? Will it last? Is it something I can see myself wearing in years to come? Is it unique to what I already own? If the answer to these is yes then I vote it's better to get an item made from synthetics that you will genuinely love and will serve you well as opposed to something from natural fibres that will not fulfill the same critera.",
+        "responseIcon": "",
+        "responseDate": "06/08/2022"
+      },
+      {
+        "responseName": "Dominic Craig",
+        "responseBody": "I agree - for me, I just do the best I can and remember that sometimes natural isn't always the best option, if the best option for me is synthetic with a particular item then no problem - I stick to natural fibres where I can and that's enough in my opinion.",
+        "responseIcon": "",
+        "responseDate": ""
+      }
+    ]
+  },
+
+  {
+    "id": "ce7296df-4f04-44eb-bab7-e26ca0291ee0",
+    "postTitle": "Thoughts on Daily Sleepers newest collection?",
+    "authorName": "Pier Luigi",
+    "authorIcon": "",
+    "postBody": "I am loving the linen suits! Great to see OEKO-TEX too. What are your guys' thoughts?",
+    "postDate": "06/08/2022",
+    "postResponses": []
+  },
+
+  {
+    "id": "75f7c381-7286-414b-a2ca-a185f645a049",
+    "postTitle": "What are your experiences renting out your wardrobe?",
+    "authorName": "Taya Gaio",
+    "authorIcon": "",
+    "postBody": "I am really intrigued by the fashion rental services popping up such as ByRotation. I have a lot of great dresses that do not let enough wear and it be lovely to extend their wear and let others enjoy them too. I'm just a bit nervous about the idea - I can imagine there being some real nightmare scenarios. Would be grateful to here of any experiences and for any info on the security/insurance aspects?",
+    "postDate": "06/08/2022",
+    "postResponses": []
+  },
+
+  {
+    "id": "ed78f201-a444-4ece-a02f-5ab2789d574d",
+    "postTitle": "Thoughts on the ethics of second-hand shopping",
+    "authorName": "Taya Gaio",
+    "authorIcon": "",
+    "postBody": "I have been seeing a lot of discourse recently over the ethics of second-hand shopping. It may be sustainable but is it truly ethical if we can afford not to? Is the popularity of it just another case of gentrification? I am starting to question the ethics of purchasing lots of items from the charity shops and second-hand sellers that have a business model revolved around this - is it taking away from people whom have no other option but to shop at charity shops? I am interested to hear any thoughts and insights.",
+    "postDate": "07/08/2022",
+    "postResponses": []
   }
 ]

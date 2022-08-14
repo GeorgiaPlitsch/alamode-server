@@ -2,78 +2,91 @@
   {
     "id": "a65fb6a3-5405-43bd-b055-0e0ea291c6e7",
     "name": "Acetate",
+    "summary": "Summary",
     "information": "Acetate information goes here Cat ipsum dolor sit amet, disappear for four days and return home with an expensive injury; bite the vet, cat snacks so scratch so owner bleeds. Cats making all the muffins. Ptracy jump on counter removed by human jump on counter again removed by human meow before jumping on counter this time to let the human know am coming back cat fur is the new black or lick plastic bags kitty loves pigs"
   },
 
   {
     "id": "49a4fbec-3416-4c90-af6b-0b4fe025452e",
     "name": "Cotton",
+    "summary": "Summary",
     "information": "Cotton information goes here Cat ipsum dolor sit amet, disappear for four days and return home with an expensive injury; bite the vet, cat snacks so scratch so owner bleeds. Cats making all the muffins. Ptracy jump on counter removed by human jump on counter again removed by human meow before jumping on counter this time to let the human know am coming back cat fur is the new black or lick plastic bags kitty loves pigs"
   },
 
   {
     "id": "d2f05f1a-4b7c-4bfd-87e1-2c3f408343df",
     "name": "Cupro",
+    "summary": "Summary",
     "information": "Cupro information goes here Cat ipsum dolor sit amet, disappear for four days and return home with an expensive injury; bite the vet, cat snacks so scratch so owner bleeds. Cats making all the muffins. Ptracy jump on counter removed by human jump on counter again removed by human meow before jumping on counter this time to let the human know am coming back cat fur is the new black or lick plastic bags kitty loves pigs"
   },
 
   {
     "id": "aa584d05-8551-4a97-aed2-30840c0f308f",
     "name": "Ecovera",
+    "summary": "Summary",
     "information": "Ecovera information goes here Cat ipsum dolor sit amet, disappear for four days and return home with an expensive injury; bite the vet, cat snacks so scratch so owner bleeds. Cats making all the muffins. Ptracy jump on counter removed by human jump on counter again removed by human meow before jumping on counter this time to let the human know am coming back cat fur is the new black or lick plastic bags kitty loves pigs"
   },
 
   {
     "id": "258c2988-be73-40c4-9703-8149e8a7bbd5",
     "name": "Linen",
+    "summary": "Summary",
     "information": "Linen information goes here Cat ipsum dolor sit amet, disappear for four days and return home with an expensive injury; bite the vet, cat snacks so scratch so owner bleeds. Cats making all the muffins. Ptracy jump on counter removed by human jump on counter again removed by human meow before jumping on counter this time to let the human know am coming back cat fur is the new black or lick plastic bags kitty loves pigs"
   },
 
   {
     "id": "c692fb8b-2f6f-4ed4-8e80-0f440e9cf5a0",
     "name": "Lyocell",
+    "summary": "Sustainable - aka the 'miracle fabric'",
     "information": "Lyocell is a sustainable, organic form of Visose. Manufactured from an eco-friendly, circular process and fully biodegradble whilst still being durable, breathable and soft."
   },
 
   {
     "id": "13b9d4ce-129d-4ba6-b11d-96cb0869cc30",
     "name": "Polyamide",
+    "summary": "Summary",
     "information": "information goes here Cat ipsum dolor sit amet, disappear for four days and return home with an expensive injury; bite the vet, cat snacks so scratch so owner bleeds. Cats making all the muffins. Ptracy jump on counter removed by human jump on counter again removed by human meow before jumping on counter this time to let the human know am coming back cat fur is the new black or lick plastic bags kitty loves pigs"
   },
 
   {
     "id": "9bb35ed8-71ea-444b-8904-2d6a25a2b718",
     "name": "Polyester",
+    "summary": "Summary",
     "information": "Polyester information goes here Cat ipsum dolor sit amet, disappear for four days and return home with an expensive injury; bite the vet, cat snacks so scratch so owner bleeds. Cats making all the muffins. Ptracy jump on counter removed by human jump on counter again removed by human meow before jumping on counter this time to let the human know am coming back cat fur is the new black or lick plastic bags kitty loves pigs"
   },
 
   {
     "id": "38faf764-ada5-4fc4-8405-fc7607c9f237",
     "name": "Rayon",
-    "information": "Rayon is a semi-synthetic fabric that is part of the viscose family. The manufacturing of rayon contributes to deforestation depending on where wood is sourced and uses very toxic chemicals to process. Alternatives we suggest are: Lyocell, organic cotton or a silk blend."
-  },
-
-  {
-    "id": "ca91f406-06ca-4e54-8e70-952142354788",
-    "name": "Recycled Polyester",
-    "information": "Recycled Polysester information goes here Cat ipsum dolor sit amet, disappear for four days and return home with an expensive injury; bite the vet, cat snacks so scratch so owner bleeds. Cats making all the muffins. Ptracy jump on counter removed by human jump on counter again removed by human meow before jumping on counter this time to let the human know am coming back cat fur is the new black or lick plastic bags kitty loves pigs"
+    "summary": "Not the best - go for Lyocell instead",
+    "information": "Semi-synthetic fabric that is part of the viscose family. The manufacturing contributes to deforestation depending on where wood is sourced and uses very toxic chemicals to process. Alternatives we suggest are: Lyocell, organic cotton or a silk blend."
   },
 
   {
     "id": "eb8feef9-6879-4ae2-8501-89ece67b7c9d",
     "name": "Silk",
-    "information": "Silk comes from the cocoons of silkworms -it's a luxorious, high quality and long wearing fabric widely considered sustaimable, but the production of silk does have a mixed impact. It is a natural fibre and will biodegrade, Mulberry trees that sustain silkworms require few pesticides or fertilisers, and it can be grown organically and require less water than cotton. However, there are concern surrounding a high use of fossil fuels, animal welfare rights and the welfareof workers producing silk. Silk items are great to build a long wearing, sustainable wardrobe but to minimise impact, look for Fair Trade, organic silk where possible."
+    "summary": "Mixed impact - sustainable fabric, not so sustainable process",
+    "information": "High quality and long wearing fabric widely considered sustaimable, but the production of silk has a mixed impact. It is a natural fibre and will biodegrade, Mulberry trees that sustain silkworms require few pesticides or fertilisers, and it can be grown organically. However, there are concern surrounding a high use of fossil fuels, animal welfare rights and the welfareof workers producing silk. Silk items are great to build a long wearing, sustainable wardrobe but to minimise impact, look for Fair Trade, organic silk where possible."
   },
 
   {
     "id": "61b0073c-9637-45c4-bb1d-3c82a70610f1",
     "name": "Viscose",
-    "information": "Viscose is a semi-synthetic, man made alternative to silk. It is popular for it's breathability and as an affordable alternative to silk that does not harm anomals. A high quality, long wearing fabric so can be intergrated into a conscious, slow fashion wardrobe. However, the process of manufacturing viscoce uses harsh, damaging chemicals and viscose takes 20-200 years to fully bio-degrade. Where possible we reccommend looking for Lyocell as an alternative, a type of viscose with an eco-friendly manufacturing process"
+    "summary": "Not the best - go for Lyocell instead",
+    "information": "Semi-synthetic, man-made fibre. High quality, long wearing and affordable alternative to silk that does not harm animals. However, manufacturing uses harsh, daamaging chemicals and viscose takes 20-200 years to fully bio-degrade. Where possible we reccommend looking for Lyocell as an eco-friendly alternative."
   },
 
   {
     "id": "f7f315fb-f788-4f4d-b4f9-7d6e3983af1f",
     "name": "Wool",
-    "information": "Wool is an environmentally positive fibre that is 100% natural, renewable and biodegradable. Not to mention that it is thermo-regulating, easy to care for, and can be repaired and enjoyed for years and years. We reccommend looking for wool certified RWS (The Responsible Wool Standard) - a standard that addresses the welfare of sheep and the land they graze on."
+    "summary": "Sustainable - check for RWS",
+    "information": "Environmentally positive fibre that is 100% natural, renewable and biodegradable. We reccommend looking for wool certified RWS (The Responsible Wool Standard) - a standard that addresses the welfare of sheep and the land they graze on."
+  },
+
+  {
+    "id": "",
+    "name": "",
+    "summary": "",
+    "information": ""
   }
 ]
