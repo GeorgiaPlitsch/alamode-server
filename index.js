@@ -1,4 +1,3 @@
-require("dotenv").config();
 const express = require("express");
 const cors = require("cors");
 const fabricsRouter = require("./routes/fabrics.js");
@@ -6,7 +5,7 @@ const articlesRouter = require("./routes/articles.js");
 const resultsRouter = require("./routes/results.js");
 const quizRouter = require("./routes/quiz.js");
 const forumRouter = require("./routes/forum.js");
-const PORT = process.env.PORT || 8000;
+const PORT = 8080 || 8000;
 
 const app = express();
 app.use(express.json());
