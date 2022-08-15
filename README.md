@@ -2,6 +2,8 @@
 
 **Striving for education, mindfulness and positive change within fashion.**
 
+## V1 
+
 `The problem`
 
 - Fashion is a huge contributor to the current climate crisis - causing 10% of human caused greenhouse gas emissions, 10% of global waste water, 53 million tonnes of clothing sent to landfill every year
@@ -27,7 +29,7 @@ Install alamode with npm
 
 ## Run Locally
 
-**Visit https://github.com/GeorgiaPlitsch/alamode and to install and run the front end**
+**Visit https://github.com/GeorgiaPlitsch/alamode to install and run the front end**
 
 Clone the project
 
