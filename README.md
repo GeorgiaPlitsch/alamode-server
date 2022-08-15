@@ -66,7 +66,7 @@ Start the server
 - **Articles**
   Browse infortmative articles on fashion sustainability
 - **Forum**
-  Browse forum discussions (currently read only, use auth and post functionality coming soon on V2)
+  Browse forum discussions (currently read only, user auth and post functionality coming soon on V2)
 
 -Currently developed for mobile, full responsiveness comong soon on V2
 
